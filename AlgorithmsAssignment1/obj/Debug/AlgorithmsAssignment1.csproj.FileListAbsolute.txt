@@ -1,0 +1,7 @@
+C:\Users\elias\source\repos\AlgorithmsAssignment1\bin\Debug\AlgorithmsAssignment1.exe.config
+C:\Users\elias\source\repos\AlgorithmsAssignment1\bin\Debug\AlgorithmsAssignment1.exe
+C:\Users\elias\source\repos\AlgorithmsAssignment1\bin\Debug\AlgorithmsAssignment1.pdb
+C:\Users\elias\source\repos\AlgorithmsAssignment1\obj\Debug\AlgorithmsAssignment1.csprojAssemblyReference.cache
+C:\Users\elias\source\repos\AlgorithmsAssignment1\obj\Debug\AlgorithmsAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\AlgorithmsAssignment1\obj\Debug\AlgorithmsAssignment1.exe
+C:\Users\elias\source\repos\AlgorithmsAssignment1\obj\Debug\AlgorithmsAssignment1.pdb
