@@ -1,9 +1,9 @@
 # FA20 Algorithms Portfolio:
 A repository for FA20 Algorithms assignments
   
+Assignment 1:
 
- //creates an array with ten pseudo-random elements for examples
-            
+             `//creates an array with ten pseudo-random elements for examples           
             int[] Array10 = new int[] {1, 5, 7, 3, 0, 4, 6, 9, 1, 4 };
 
             //creates an array with  one hundred pseudo-random elements for examples
